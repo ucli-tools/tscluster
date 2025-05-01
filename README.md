@@ -18,10 +18,10 @@ This script allows to set up a Tailscale cluster for one control node and multip
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/Mik-TF/tailscale_cluster/refs/heads/main/tailscale_cluster.sh
+wget https://raw.githubusercontent.com/ucli-tools/tscluster
 
 # Run the script
-bash ./tscluster.sh
+make
 ```
 
 ## Contributing
